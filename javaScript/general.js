@@ -62,7 +62,7 @@ function showCards(arrayDatos) {
       <p class="card-text">${datas.description}</p>
       <p class="alingc">Price: $ ${datas.price}</p>
       <div class="cardButon">
-       <a href="/details.html?id=${datas._id}" class="btn btn-dark "> Details</a>
+       <a href="./details.html?id=${datas._id}" class="btn btn-dark "> Details</a>
        </div>
     </div>
    
