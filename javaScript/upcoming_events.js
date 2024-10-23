@@ -26,7 +26,7 @@ async function obtenerEventos() {
   }
   catch (error) {
 
-    eventos = fetch('/javaScript/amazing.json')
+    eventos = fetch('javaScript/amazing.json')
       .then((res) => res.json())
       .then((data) => {
         console.log("Error al acceder a internet")
