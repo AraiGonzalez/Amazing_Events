@@ -1,0 +1,134 @@
+
+.colorBody{
+    background-color: rgb(214, 184, 245);
+ }
+ /*nav*/
+ .barra{
+   background-color:  rgb(177, 108, 243);
+ }
+ .navigation{
+    background-color: rgb(177, 108, 243);
+    height: auto;
+    padding-top: 10px;
+    font-size: 20px;
+ }
+ .logo{
+    height: 60px;
+    background-color:rgb(177, 108, 243);
+   
+ }
+ /* card*/
+ .cont{
+    display: inline-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 100%;
+    
+ }
+ .contCard{
+    margin: 10px;
+    border-color: rgb(16, 15, 15) !important;  
+    box-shadow: 7px 7px rgb(70, 69, 71);
+ }
+
+ .colorCard{
+   background-color: rgb(189, 159, 216);
+ }
+ .mensagge{
+   align-items: center;
+   margin: 60px 500px;
+   color: rgb(12, 8, 8);
+   width: 100%;
+ }
+
+ .imageCard{
+   height: 200px; ;
+ }
+ .cardButon{
+   width: 100%;
+   margin: auto;
+ }
+ 
+ /*details*/
+ .contDatails{
+    display: block;
+    margin: 60px 100px;
+    box-shadow: 7px 7px rgb(70, 69, 71);
+ }
+ .imgDetails{
+   margin: 40px 9px;
+ }
+ /*carousel*/
+ .carousel1{
+    height: 100px;
+    padding-top: 40px;
+    background-image: url(/img/images\ \(2\).jpg);
+ }
+ .colorC{
+   color: blueviolet;
+ }
+ /*Checks y Browser*/
+ .checks{
+    margin: 15px 0;
+ }
+ .search1{
+   
+   width: 300px;
+   
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: center;
+ }
+
+/* contact*/
+.contactForm{
+   margin: 15px;
+}
+.buttonForm{
+margin: 10px 40%;
+}
+.cardContact{
+   background-color:  rgb(189, 159, 216);
+   width: 400px;
+   height: auto;
+   margin: 35px auto;
+   border-radius: 1%;
+   border: 1px solid black;
+   box-shadow: 6px 6px rgb(70, 69, 71);
+   }
+.alingc{
+   font-weight: 500;
+}
+/*stats*/
+.statsTable{
+   width: 65% !important;
+   height: 20% !important;
+   margin: 35px auto !important; 
+   border-radius: 1%;
+   border: 1px solid black;
+   
+}
+.statstrthtd{
+   border: 1px solid rgba(6, 6, 6, 0.973); 
+}
+.colorTable{
+   background-color: rgb(197, 150, 240);
+   border-radius: 1%;
+   border: 2px solid black;
+}
+.colortable2{
+   background-color:  rgb(189, 159, 216);
+   border-radius: 1%;
+   border: 2px solid black;
+}
+.colortable3{
+   background-color:  rgb(97, 44, 144);
+   border-radius: 1%;
+   border: 3px solid black;
+}
+/*footer*/
+.textF{
+   font-weight: 600;
+
+}
+
